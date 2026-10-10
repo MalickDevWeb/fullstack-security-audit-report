@@ -15,13 +15,13 @@
 
 ---
 
-## 📌 Présentation du Projet pour les Recruteurs
+## 📌 Contexte & Objectifs de l'Évaluation
 
-Ce projet documente la démarche rigoureuse d'un **ingénieur sécurité applicative (AppSec) / Développeur Fullstack** réalisant un audit complet d'une plateforme web moderne avant son ouverture en production.
+Ce projet documente la démarche rigoureuse d'un audit de sécurité applicatif complet (**AppSec / Pentest boîte grise**) réalisé sur une plateforme web moderne avant son déploiement en production.
 
 L'application auditée est composée d'un frontend Single Page Application (React) communiquant avec une API REST (NestJS / Node.js) abritée derrière une passerelle de Reverse Proxy (Nginx / Apache).
 
-> 🎯 **Objectif métier :** Démontrer par des tests techniques réels que l'application respecte les principes de **Security by Design**, de **Défense en Profondeur** et de **Moindre Privilège**, en neutralisant les 10 risques majeurs du standard mondial **OWASP Top 10**.
+> 🎯 **Objectif technique :** Démontrer par des tests techniques réels que l'application respecte les principes de **Security by Design**, de **Défense en Profondeur** et de **Moindre Privilège**, en neutralisant les risques majeurs du standard mondial **OWASP Top 10**.
 
 ---
 
@@ -141,13 +141,13 @@ Ce dépôt est structuré de façon modulaire pour permettre une traçabilité t
 
 ---
 
-## 💡 Compétences Démontrées pour un Poste
+## 💡 Domaines d'Expertise & Standards Couverts
 
-* **Application Security (AppSec) :** Maîtrise des concepts OWASP Top 10, CWE et défenses en profondeur.
-* **Sécurité des APIs & JWT :** Conception de flux d'authentification sans état, gestion de durée courte, mécanismes de révocation.
+* **Application Security (AppSec) :** Maîtrise des concepts OWASP Top 10, CWE et stratégies de défense en profondeur.
+* **Sécurité des APIs & JWT :** Conception de flux d'authentification sans état, gestion de durée courte, mécanismes de révocation active.
 * **Sécurité Backend & Middleware :** Implémentation de RBAC, validation de schémas stricts, limitation de débit (Rate Limiting).
 * **Outillage Professionnel :** Utilisation avancée d'OWASP ZAP (interception, analyse passive, renvoi de requêtes), notions de Burp Suite et Semgrep.
-* **Rédaction Technique :** Production de rapports d'audit clairs, documentés avec preuves techniques à destination des équipes d'ingénierie et du management.
+* **Documentation & Reporting :** Production de rapports d'évaluation clairs, documentés avec preuves techniques et matrices de remédiation.
 
 ---
 
