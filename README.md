@@ -154,5 +154,6 @@ Ce dépôt est structuré de façon modulaire pour permettre une traçabilité t
 ## 👤 Auteur
 
 **Papa Malick TEUW**  
-*Développeur Fullstack & Praticien Sécurité Applicative*  
-* 💼 GitHub : [@MalickDevWeb](https://github.com/MalickDevWeb)
+*Développeur Fullstack, Développeur IA & Praticien Sécurité Applicative (AppSec)*  
+* 💼 GitHub : [@MalickDevWeb](https://github.com/MalickDevWeb)  
+* 📧 Email : [malickteuw.devweb@gmail.com](mailto:malickteuw.devweb@gmail.com)
